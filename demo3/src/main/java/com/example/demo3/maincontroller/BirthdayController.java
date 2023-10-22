@@ -11,6 +11,7 @@ public class BirthdayController {
         System.out.println("66666666");
         System.out.println("");
         System.out.println("main");
+        System.out.println("hot-fox");
         return "forward:/birthday/index.html";
     }
 }
