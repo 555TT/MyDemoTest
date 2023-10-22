@@ -12,6 +12,7 @@ public class BirthdayController {
         System.out.println("");
         System.out.println("main");
         System.out.println("hot-fox");
+        System.out.println("push");
         return "forward:/birthday/index.html";
     }
 }
