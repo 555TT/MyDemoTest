@@ -10,6 +10,7 @@ public class BirthdayController {
     public String main(){
         System.out.println("66666666");
         System.out.println("");
+        System.out.println();
         return "forward:/birthday/index.html";
     }
 }
